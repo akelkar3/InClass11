@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InClass11</string>
+    <string name="action_settings">Reset</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="buttonSearch">Search</string>
+</resources>
